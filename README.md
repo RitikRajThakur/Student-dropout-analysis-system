@@ -61,8 +61,8 @@ student-dropout-system/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<YOUR_GITHUB_USERNAME>/student-dropout-system.git
-cd student-dropout-system
+git clone https://github.com/RitikRajThakur/Student-dropout-analysis-system.git
+cd Student-dropout-analysis-system
 ```
 
 ### 2. Backend Setup
